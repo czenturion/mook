@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mook/static/css/main.f68de5e5.css",
+    "main.css": "/mook/static/css/main.8eb8aef8.css",
     "main.js": "/mook/static/js/main.a9824d8f.js",
     "static/js/453.cc9dd6e0.chunk.js": "/mook/static/js/453.cc9dd6e0.chunk.js",
     "index.html": "/mook/index.html",
-    "main.f68de5e5.css.map": "/mook/static/css/main.f68de5e5.css.map",
+    "main.8eb8aef8.css.map": "/mook/static/css/main.8eb8aef8.css.map",
     "main.a9824d8f.js.map": "/mook/static/js/main.a9824d8f.js.map",
     "453.cc9dd6e0.chunk.js.map": "/mook/static/js/453.cc9dd6e0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f68de5e5.css",
+    "static/css/main.8eb8aef8.css",
     "static/js/main.a9824d8f.js"
   ]
 }
