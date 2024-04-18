@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/mook/static/css/main.cdd05493.css",
-    "main.js": "/mook/static/js/main.8df51678.js",
+    "main.css": "/mook/static/css/main.4ff0abcb.css",
+    "main.js": "/mook/static/js/main.94ab16f9.js",
     "static/js/453.cc9dd6e0.chunk.js": "/mook/static/js/453.cc9dd6e0.chunk.js",
     "static/media/SF-Pro-thin.otf": "/mook/static/media/SF-Pro-thin.118dea390f52cf393735.otf",
     "static/media/SF-Pro-regular.otf": "/mook/static/media/SF-Pro-regular.d1f5e6e16dd4f75c3950.otf",
     "static/media/Montserrat-Black.ttf": "/mook/static/media/Montserrat-Black.beacc26b4bbaaf608567.ttf",
     "index.html": "/mook/index.html",
-    "main.cdd05493.css.map": "/mook/static/css/main.cdd05493.css.map",
-    "main.8df51678.js.map": "/mook/static/js/main.8df51678.js.map",
+    "main.4ff0abcb.css.map": "/mook/static/css/main.4ff0abcb.css.map",
+    "main.94ab16f9.js.map": "/mook/static/js/main.94ab16f9.js.map",
     "453.cc9dd6e0.chunk.js.map": "/mook/static/js/453.cc9dd6e0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cdd05493.css",
-    "static/js/main.8df51678.js"
+    "static/css/main.4ff0abcb.css",
+    "static/js/main.94ab16f9.js"
   ]
 }
