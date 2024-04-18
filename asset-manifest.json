@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/mook/static/css/main.38743c68.css",
+    "main.css": "/mook/static/css/main.ce5397b4.css",
     "main.js": "/mook/static/js/main.ab31c5ef.js",
     "static/js/453.cc9dd6e0.chunk.js": "/mook/static/js/453.cc9dd6e0.chunk.js",
     "static/media/SF-Pro-thin.otf": "/mook/static/media/SF-Pro-thin.118dea390f52cf393735.otf",
     "static/media/SF-Pro-regular.otf": "/mook/static/media/SF-Pro-regular.d1f5e6e16dd4f75c3950.otf",
     "index.html": "/mook/index.html",
-    "main.38743c68.css.map": "/mook/static/css/main.38743c68.css.map",
+    "main.ce5397b4.css.map": "/mook/static/css/main.ce5397b4.css.map",
     "main.ab31c5ef.js.map": "/mook/static/js/main.ab31c5ef.js.map",
     "453.cc9dd6e0.chunk.js.map": "/mook/static/js/453.cc9dd6e0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.38743c68.css",
+    "static/css/main.ce5397b4.css",
     "static/js/main.ab31c5ef.js"
   ]
 }
